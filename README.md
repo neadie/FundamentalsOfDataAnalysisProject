@@ -16,6 +16,6 @@ Project plan
 
 create repo **DONE**
 
- Description: **IN PROGRESS**
- Regression: **TODO**
+ Description: **DONE**
+ Regression: **IN PROGRESS**
 Analyse: **TODO**
