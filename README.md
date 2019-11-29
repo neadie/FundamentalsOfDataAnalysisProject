@@ -62,7 +62,8 @@ Discuss the relationship between the variables
 
 
 Analyse
-Relationship between number of meals server , day of the week , sex of payer and time of the day and size of the group
-Realtionship Males / Females days of the week
-Conclusion
-Summarise conclusions of the analysis.
+- Relationship between number of meals server , day of the week , sex of payer and time of the day and size of the group
+- Realtionship Males / Females days of the week
+- Investigate if a male smoker or non smoker on a sunday could be predicted from k -Nearst neighbour algorithm
+- Conclusion
+   - Summarise conclusions of the analysis.
