@@ -29,29 +29,40 @@ Create Jupyter notebook
  Description: 
  - Review of Previous Studies of the Dataset 
 - Database Variables
-- Get  max, min, average, median for the numeric values for the entire dataset
+- Entire dataset
 - Plot of total bill verus tip for the entire dataset
-- Count of meals for time and each day of the week
-- Count of male and female by each day and time of the day served
-- smokers versus nonsmokers
-- Review of of males/females
+- Day of the week
+-  Male /Females
+- smokers /non smokers 
+- Group size 
   **Done**
  Regression: **IN PROGRESS**
 Analyse: **TODO**
 
 Regression
-Compare variables total_bill and tip
+
 Discuss the relationship between the variables
-Plot comparisons of data points
-Review distribution of tip/total_bill percentage
+- total bill ,tips and group size realtionship for 
+     - the entire dataset
+     - Males
+     - Females
+     - Smokers
+     - Non Smokers
+     - time of the day Lunch/Dinner
+      - Males/Time of the day
+      - Females /time of the day
+      - time and day of the week
+      - time and day of the week of males 
+      - time and day of the week for females
+       - time and day of the week of males smokers
+       - time and day of the week for female smokers
+      - 
+     
 
 
 
 Analyse
-Based on the initial description select a number of interesting variables
-Undertake a detailed analyse of these variable relationships
-Review patterns in smokers versus non-smoker
-Review party size compared to total_bill and tip
-Review patterns in meal times and days of the week
+Relationship between number of meals server , day of the week , sex of payer and time of the day and size of the group
+Realtionship Males / Females days of the week
 Conclusion
 Summarise conclusions of the analysis.
