@@ -35,9 +35,7 @@ Create Jupyter notebook
 -  Male /Females
 - smokers /non smokers 
 - Group size 
-  **Done**
- Regression: **IN PROGRESS**
-Analyse: **TODO**
+
 
 Regression
 
