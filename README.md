@@ -3,9 +3,9 @@
 ## Name- Sinead Frawley 
 ## Student ID G00376349
 
-The the project via github url https://github.com/neadie/FundamentalsOfDataAnalysisProject/blob/master/DataAnalyticsFundamentals.ipynb
+The the project via github url https://github.com/neadie/ProgrammingForDataAnalyticsProject
 
-git clone https://github.com/neadie/FundamentalsOfDataAnalysisProject/blob/master/DataAnalyticsFundamentals.ipynb
+git clone https://github.com/neadie/ProgrammingForDataAnalyticsProject
 
 
 - Go into the project folder 
